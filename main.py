@@ -3,8 +3,8 @@
 import os
 
 ENTRY = (
-    "WARNING: This human contains opinions formed in under five seconds "
-    "and defended for the rest of its life."
+    "WARNING: This human will confidently explain topics learned five "
+    "minutes ago and will not be taking questions."
 )
 
 
